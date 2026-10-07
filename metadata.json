@@ -1,0 +1,7 @@
+{
+  "name": "Singapore Civic Transit",
+  "description": "High-utility Singapore public bus and rail transit tracker with LTA live arrival timings, passenger occupancy indicators, and MRT network advisories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
